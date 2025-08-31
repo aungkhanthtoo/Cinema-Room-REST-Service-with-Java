@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: remove(element)
+  - text: add(element)
+  - text: get(index)
+  - text: size()
+  - text: "put(key, value)"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2319#comment
+status: Solved
+record: -1
+local_check: false

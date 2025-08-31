@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: "Rectangles: The shape of things to sum"
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/49173#comment
+status: Solved
+record: -1

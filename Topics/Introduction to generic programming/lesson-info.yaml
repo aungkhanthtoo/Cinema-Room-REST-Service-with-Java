@@ -1,0 +1,9 @@
+content:
+  - Theory
+  - Creating instances
+  - Generic parameter values
+  - Implementing a type-safe Box class and retrieving values
+  - Safekeeping Secrets in a Magic Box
+  - Declaring generic classes
+  - Correct the program
+  - Type parameter inside a class body

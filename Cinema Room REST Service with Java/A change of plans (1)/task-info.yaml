@@ -1,0 +1,48 @@
+type: edu
+custom_name: A change of plans
+files:
+  - name: src/cinema/Main.java
+    visible: true
+    learner_created: false
+  - name: src/resources/application.properties
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+  - name: src/cinema/controller/TokenRequest.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/CinemaService.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/Seat.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/CinemaController.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/SeatsResponse.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/TokenNotFoundException.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/ControllerExceptionHandler.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/Ticket.java
+    visible: true
+    learner_created: true
+  - name: src/cinema/controller/Seats.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/189/stages/947/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 31 Aug 2025 09:08:27 UTC"
+record: 3

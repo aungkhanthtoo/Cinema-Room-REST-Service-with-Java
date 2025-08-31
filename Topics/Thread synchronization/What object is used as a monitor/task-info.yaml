@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: SharedResource::method
+  - text: any instance of SharedResource
+  - text: an instance of SharedResource which method is invoked
+  - text: SharedResource.class
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/36495#comment
+status: Solved
+record: -1
+custom_name: What object is used as a monitor?
+local_check: false

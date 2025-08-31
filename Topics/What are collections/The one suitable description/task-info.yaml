@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: A collection is a container for grouping elements into a single unit.
+  - text: A collection is a method that produces arrays.
+  - text: A collection is a type that stores its own instances.
+  - text: A collection is a super-class for declaring your own classes.
+  - text: A collection is a group of related variables.
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6063#comment
+status: Solved
+record: -1
+local_check: false
